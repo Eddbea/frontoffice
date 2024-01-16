@@ -11,6 +11,7 @@ public class HomeServlet extends HttpServlet {
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
         out.println("<html><body><h1>OnlineStore, votre boutique multimedia en ligne</h1></body></html>");
-
+        out.println("<a href=\"catalogue\">Accès au catalogue des oeuvres</a>");
+        out.println("</body></html>");
     }
 }
