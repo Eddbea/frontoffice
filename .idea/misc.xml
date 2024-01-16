@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/../firstappcore/pom.xml" />
         <option value="$PROJECT_DIR$/../firstapp/pom.xml" />
         <option value="$PROJECT_DIR$/../core/pom.xml" />
+        <option value="$PROJECT_DIR$/../backoffice/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />

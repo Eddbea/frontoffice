@@ -36,3 +36,13 @@ Q.idea/sonarlint/securityhotspotstore/3/7/37b5cd9407c812ee246fdf4817bed24a820fe0
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+u
+Esrc/main/java/com/directmedia/onlinestore/backoffice/HomeServlet.java,9/9/99d1974dfea0aa4fea34897427307ea8906ac481
+€
+Psrc/main/java/com/directmedia/onlinestore/backoffice/controller/HomeServlet.java,d/d/dd904918fdfd7970dd34027d8df69784f80cdf2b
+…
+Usrc/main/java/com/directmedia/onlinestore/backoffice/controller/CatalogueServlet.java,0/b/0b230bd0332178aa85b713532b1d2ec46d511564
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+S
+#src/main/webapp/web/WEB-INF/web.xml,0/1/019f65d3d281f8b27ddf6a1e10ab364f7430952d
