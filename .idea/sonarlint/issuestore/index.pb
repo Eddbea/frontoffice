@@ -36,3 +36,7 @@ o
 ?src/main/java/com/practices/firstapp/controller/Pdfservlet.java,9/8/987178e38c4fd845b6e93ea3976f35d0f3e5a7c9
 o
 ?src/main/java/com/practices/firstapp/controller/PdfServlet.java,a/3/a3a77ae82b38de6b302358dcf06fc404d4d2dcfd
+J
+src/main/webapp/index.html,1/3/1337d72a3b1928dba82aa5210f5cdc0e88ce895b
+w
+Gsrc/main/java/com/practices/firstapp/controller/HelloServletwebxml.java,f/1/f1ab0afb58c2fd47ba20ddeddca464b6e8cd027a
