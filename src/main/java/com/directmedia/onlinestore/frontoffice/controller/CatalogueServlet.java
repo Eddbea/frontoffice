@@ -34,9 +34,14 @@ public class CatalogueServlet extends HttpServlet {
             minorityReport.setSummary("Minority Report place le spectateur dans un futur proche cyberpunk, une dystopie dont le cadre est à Washington de 2054 où des êtres humains mutants, les précogs, peuvent prédire les crimes à venir grâce à leur don de prescience");
             bad.setSummary("Bad est le septième album de Michael Jackson et son 3e album solo chez Epic/Sony et le 3e et dernier album co-produit par Quincy Jones. C'est l'un des albums les plus vendus de l'histoire et celui qui contient le plus de morceaux classés no 1 dans les palmarès.");
             leGendarmeDeSaintTropez.setSummary("le film raconte les aventures de Ludovic Cruchot, un gendarme très « service-service », muté dans la cité balnéaire de Saint-Tropez, sur la côte d'Azur, avec le grade de maréchal-des-logis-chef.");
+
             minorityReport.setGenre("Science Fiction");
             bad.setGenre("Pop");
             leGendarmeDeSaintTropez.setGenre("Comédie");
+
+            minorityReport.setId(1);
+            bad.setId(2);
+            leGendarmeDeSaintTropez.setId(3);
 
             Catalogue.listOfWorks.add(minorityReport);
             Catalogue.listOfWorks.add(bad);
@@ -44,12 +49,17 @@ public class CatalogueServlet extends HttpServlet {
         }
 
         out.println("<html><body><h1>Oeuvres au catalogue</h1><BR/><BR/>");
-        for (Work item : Catalogue.listOfWorks) {
-            out.println(item.getTitle() + " (" + item.getRelease() + ")<BR/>");
-        }
 
-        out.println("</body");
-        out.println("</html>");
+
+        for (Work work : Catalogue.listOfWorks) {
+            out.println("<a href=\"work-details?id=" + work.getId() + work.getTitle() + " (" + work.getRelease() + ")</a><BR/>");
+            //out.println("<a href=\"work-details\">1.2.3</a>");
+            //out.println(Catalogue.listOfWorks);
+           // out.println(work.getId());
+            out.println("</body");
+            out.println("</html>");
+
+        }
     }
 }
-
+//
