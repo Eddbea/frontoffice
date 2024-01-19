@@ -22,5 +22,11 @@ S
 #src/main/webapp/web/WEB-INF/web.xml,0/1/019f65d3d281f8b27ddf6a1e10ab364f7430952d
 ˆ
 Xsrc/main/java/com/directmedia/onlinestore/frontoffice/controller/WorkDetailsServlet.java,f/2/f21ead3caad8cc6433d7d840b44d897912e560d9
+k
+;src/main/java/com/directmedia/onlinestore/core/Startup.java,2/5/25d4f234237251935e1ec6960a7fe4cb5cd84a39
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
 o
 ?src/main/java/com/directmedia/onlinestore/core/entity/Work.java,3/7/37b5cd9407c812ee246fdf4817bed24a820fe073
+q
+Asrc/main/java/com/directmedia/onlinestore/core/entity/Artist.java,e/3/e3958b02ed13754e1ff28447d024066fd49cdc73

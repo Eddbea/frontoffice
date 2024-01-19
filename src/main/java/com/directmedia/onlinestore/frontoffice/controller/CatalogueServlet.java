@@ -46,19 +46,19 @@ public class CatalogueServlet extends HttpServlet {
             Catalogue.listOfWorks.add(minorityReport);
             Catalogue.listOfWorks.add(bad);
             Catalogue.listOfWorks.add(leGendarmeDeSaintTropez);
+
+            minorityReport.setMainArtist(tomCruise);
+            bad.setMainArtist(leonardoDiCaprio);
+            leGendarmeDeSaintTropez.setMainArtist(louisDeFunes);
         }
 
         out.println("<html><body><h1>Oeuvres au catalogue</h1><BR/><BR/>");
-
-
         for (Work work : Catalogue.listOfWorks) {
-            out.println("<a href=\"work-details?id=" + work.getId() + work.getTitle() + " (" + work.getRelease() + ")</a><BR/>");
-            //out.println("<a href=\"work-details\">1.2.3</a>");
-            //out.println(Catalogue.listOfWorks);
-           // out.println(work.getId());
+            //out.println(work.getSummary());
+            //out.println("<a href=\"work-details?id=" + work.getId() + work.getTitle() + " (" + work.getRelease() + ")</a><BR/>");
+            out.println("<a href=\"work-details?id=" + work.getId() + "\">" + work.getTitle() + " (" + work.getRelease() + ")</a><BR/>");
             out.println("</body");
             out.println("</html>");
-
         }
     }
 }

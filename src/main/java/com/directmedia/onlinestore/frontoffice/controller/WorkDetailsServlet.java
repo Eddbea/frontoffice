@@ -12,6 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+
 @WebServlet(name = "workDetailsServlet", value = "/work-details")
 public class WorkDetailsServlet extends HttpServlet {
 
@@ -35,8 +36,8 @@ public class WorkDetailsServlet extends HttpServlet {
         String id = req.getParameter("id");
 
         //stream java 8
-
         //Work work = Catalogue.listOfWorks.stream().filter(workf -> workf.getId()==Long.parseLong(id)).findFirst().get();
+
         try {
             Work work = new Work();
             for (Work nextWork : Catalogue.listOfWorks) {
@@ -46,7 +47,7 @@ public class WorkDetailsServlet extends HttpServlet {
                 }
             }
             PrintWriter out = response.getWriter();
-            out.print("<html><body><h1>Descriptif de l'oeuvre</h1></body></html>");
+            out.print("<html><body><h1>Descriptif de l'oeuvre</h1><BR/>");
             out.print("Titre: " + work.getTitle() + "<BR/>");
             out.print("Annee de parution: " + work.getRelease() + "<BR/>");
             out.print("Genre: " + work.getGenre() + "<BR/>");
