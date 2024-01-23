@@ -39,10 +39,6 @@ public class CatalogueServlet extends HttpServlet {
             bad.setGenre("Pop");
             leGendarmeDeSaintTropez.setGenre("Comédie");
 
-            minorityReport.setId(1);
-            bad.setId(2);
-            leGendarmeDeSaintTropez.setId(3);
-
             Catalogue.listOfWorks.add(minorityReport);
             Catalogue.listOfWorks.add(bad);
             Catalogue.listOfWorks.add(leGendarmeDeSaintTropez);
@@ -54,8 +50,6 @@ public class CatalogueServlet extends HttpServlet {
 
         out.println("<html><body><h1>Oeuvres au catalogue</h1><BR/><BR/>");
         for (Work work : Catalogue.listOfWorks) {
-            //out.println(work.getSummary());
-            //out.println("<a href=\"work-details?id=" + work.getId() + work.getTitle() + " (" + work.getRelease() + ")</a><BR/>");
             out.println("<a href=\"work-details?id=" + work.getId() + "\">" + work.getTitle() + " (" + work.getRelease() + ")</a><BR/>");
             out.println("</body");
             out.println("</html>");

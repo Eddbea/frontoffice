@@ -28,7 +28,7 @@ public class WorkDetailsServlet extends HttpServlet {
      *                          the GET request
      * @throws ServletException if the request for the GET
      *                          could not be handled
-     * @see ServletResponse#setContentType
+     * @see ServletResponse#setContentTypes
      */
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse response) throws ServletException, IOException {
