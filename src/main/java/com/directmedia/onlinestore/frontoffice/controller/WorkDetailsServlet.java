@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 
-@WebServlet(name = "workDetailsServlet", value = "/work-details")
+@WebServlet(name = "WorkDetailsServlet", value = "/work-details")
 public class WorkDetailsServlet extends HttpServlet {
 
     /**
@@ -28,11 +28,11 @@ public class WorkDetailsServlet extends HttpServlet {
      *                          the GET request
      * @throws ServletException if the request for the GET
      *                          could not be handled
-     * @see ServletResponse#setContentTypes
+     * @see ServletResponse#setContentType
      */
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse response) throws ServletException, IOException {
-        response.setContentType("text/html");
+        response.setContentType("text/html;charset=UTF-8");
         String id = req.getParameter("id");
 
         //stream java 8
