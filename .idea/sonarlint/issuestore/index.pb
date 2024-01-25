@@ -37,3 +37,5 @@ Asrc/main/java/com/practices/firstapp/controller/LoginServlet.java,0/4/042187dd
 login.html,8/0/8069a16aaa89aa2f982404b0d2c7244c6e283111
 ƒ
 Ssrc/main/java/com/directmedia/onlinestore/backoffice/controller/AddWorkServlet.java,c/6/c6b3ea96ccfd0e3e7a39817be40d86dcfc0b470a
+y
+Isrc/main/java/com/directmedia/onlinestore/backoffice/controller/algo.java,6/b/6b976728b1965d02f6a9b26094d76d7ec1bf9cb1
