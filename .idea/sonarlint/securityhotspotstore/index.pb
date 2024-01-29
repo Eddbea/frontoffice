@@ -58,3 +58,7 @@ v
 Fsrc/main/java/com/practices/firstapp/controller/PayerLivreServlet.java,1/9/19fc551a9cdf3f9f11fab8e8b34c709e88f6ff3e
 P
  src/main/webapp/payer-livre.html,2/2/2202a86bea53336dc57866a2b23f7be6b340fc9e
+J
+src/main/webapp/login.html,0/b/0b2312482180eaf8cdf639b64798129ced9aa403
+Œ
+\src/main/java/com/directmedia/onlinestore/backoffice/controller/AuthentificationServlet.java,0/4/04818bb32b5477e816844d0201ab384c6daa92a3
