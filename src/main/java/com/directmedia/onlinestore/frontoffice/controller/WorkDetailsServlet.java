@@ -53,7 +53,10 @@ public class WorkDetailsServlet extends HttpServlet {
             out.print("Genre: " + work.getGenre() + "<BR/>");
             out.print("Artiste: " + work.getMainArtist().getName() + "<BR/>");
             out.print("Resume: " + work.getSummary() + "<BR/>");
-            out.print("</body></html>");
+            out.print("<form action=\"addToCart\" method=\"POST\">");
+            out.print("<INPUT type=\"hidden\" name=\"identifiant\" value=\""+work.getId()+"\"/>");
+            out.print("<INPUT type=\"submit\" value=\"Ajouter au caddie\"/>");
+            out.print("</form></body></html>");
 
         } catch (NumberFormatException e) {
             e.printStackTrace();
