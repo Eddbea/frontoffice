@@ -30,3 +30,17 @@ Gsrc/main/java/com/directmedia/onlinestore/core/entity/ShoppingCart.java,f/7/f7
 Ssrc/main/java/com/directmedia/onlinestore/backoffice/controller/AddWorkServlet.java,c/6/c6b3ea96ccfd0e3e7a39817be40d86dcfc0b470a
 o
 ?src/main/java/com/directmedia/onlinestore/core/entity/Work.java,3/7/37b5cd9407c812ee246fdf4817bed24a820fe073
+v
+Fsrc/main/java/com/practices/firstapp/controller/PayerLivreServlet.java,1/9/19fc551a9cdf3f9f11fab8e8b34c709e88f6ff3e
+q
+Asrc/main/java/com/practices/firstapp/controller/LoginServlet.java,0/4/042187dd2b1c327696b93ea9415c9e262e4f0a45
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+q
+Asrc/main/java/com/practices/firstapp/controller/HelloServlet.java,4/4/4400897823077bf166801284cac8f49115d264b3
+R
+"src/main/webapp/loginFirstApp.html,3/b/3b781c9f1b63e4699528207f63ac7a26895281aa
+w
+Gsrc/main/java/com/practices/firstapp/controller/HelloServletwebxml.java,f/1/f1ab0afb58c2fd47ba20ddeddca464b6e8cd027a
+Œ
+\src/main/java/com/directmedia/onlinestore/backoffice/controller/AuthentificationServlet.java,0/4/04818bb32b5477e816844d0201ab384c6daa92a3
