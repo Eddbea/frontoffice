@@ -40,3 +40,17 @@ Ssrc/main/java/com/directmedia/onlinestore/backoffice/controller/AddWorkServlet.
 \src/main/java/com/directmedia/onlinestore/backoffice/controller/AuthentificationServlet.java,0/4/04818bb32b5477e816844d0201ab384c6daa92a3
 q
 Asrc/main/java/com/practices/firstapp/controller/LoginServlet.java,0/4/042187dd2b1c327696b93ea9415c9e262e4f0a45
+q
+Asrc/main/java/com/practices/firstapp/controller/SommeServlet.java,6/2/6204e0640f53533aa88e397087a8bf45caff9d83
+u
+Esrc/main/java/com/practices/firstapp/controller/unexpected-error.html,3/f/3f16c61cb4a5c64288fbe62bb223c3864719b5b6
+o
+?src/main/java/com/practices/firstapp/controller/PdfServlet.java,a/3/a3a77ae82b38de6b302358dcf06fc404d4d2dcfd
+R
+"src/main/webapp/saisie-nombre.html,0/9/093482db8870d7af6f0ea1922ebc72642d215a85
+S
+#src/main/webapp/saisie-montant.html,9/4/9411173d3a4d2115c4aa55c1a8fb99c768487384
+{
+Ksrc/main/java/com/practices/firstapp/controller/UnexpectedErrorServlet.java,6/6/66801d1a6e413ced4483c5abdad59fdeae5676de
+U
+%src/main/webapp/unexpected-error.html,1/6/167f008b16966fe3f19d82ec38f0f7dca603882d
