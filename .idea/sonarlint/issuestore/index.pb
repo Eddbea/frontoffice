@@ -42,3 +42,7 @@ Dsrc/main/java/com/directmedia/onlinestore/core/entity/Catalogue.java,7/f/7f263
 `src/main/java/com/directmedia/onlinestore/backoffice/controller/WorkAddedFailureServletBack.java,d/9/d9488997d91abcdff1f1f3ebc07c06f21bdea197
 q
 Asrc/main/java/com/practices/firstapp/controller/SommeServlet.java,6/2/6204e0640f53533aa88e397087a8bf45caff9d83
+R
+"src/main/webapp/saisie-nombre.html,0/9/093482db8870d7af6f0ea1922ebc72642d215a85
+o
+?src/main/java/com/practices/firstapp/controller/PdfServlet.java,a/3/a3a77ae82b38de6b302358dcf06fc404d4d2dcfd
