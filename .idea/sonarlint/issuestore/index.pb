@@ -70,3 +70,5 @@ o
 ?src/main/java/com/directmedia/onlinestore/core/entity/Work.java,3/7/37b5cd9407c812ee246fdf4817bed24a820fe073
 t
 Dsrc/main/java/com/directmedia/onlinestore/core/entity/Catalogue.java,7/f/7f2634d698318eb87a6dce9e7e91b257233b9612
+k
+;src/main/java/com/directmedia/onlinestore/core/Startup.java,2/5/25d4f234237251935e1ec6960a7fe4cb5cd84a39
