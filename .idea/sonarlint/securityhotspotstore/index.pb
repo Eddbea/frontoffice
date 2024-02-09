@@ -18,37 +18,21 @@ Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-S
-#src/main/webapp/web/WEB-INF/web.xml,0/1/019f65d3d281f8b27ddf6a1e10ab364f7430952d
 à
 Xsrc/main/java/com/directmedia/onlinestore/frontoffice/controller/WorkDetailsServlet.java,f/2/f21ead3caad8cc6433d7d840b44d897912e560d9
 Ü
 Vsrc/main/java/com/directmedia/onlinestore/frontoffice/controller/AddToCartServlet.java,9/0/90fad07e8e2b724a9e215d58c0fc801a8a7e90da
-Ñ
-Tsrc/main/java/com/directmedia/onlinestore/backoffice/controller/HomeServletBack.java,9/4/9464f139e6c8e00a58da5a8fe8cb44eda0ce330f
-â
-Ysrc/main/java/com/directmedia/onlinestore/backoffice/controller/CatalogueServletBack.java,4/7/47b0674f34a5895a654c4a5f1578768be2d75152
+H
+src/main/webapp/home.jsp,6/8/6853166b9553bb500860233db274f93560c021c5
 ê
 `src/main/java/com/directmedia/onlinestore/backoffice/controller/WorkAddedSuccessServletBack.java,3/8/38f52471689ae0b8a2f2f094e3b4335c7fc5eb11
-É
-Ssrc/main/java/com/directmedia/onlinestore/backoffice/controller/AddWorkServlet.java,c/6/c6b3ea96ccfd0e3e7a39817be40d86dcfc0b470a
-o
-?src/main/java/com/directmedia/onlinestore/core/entity/Work.java,3/7/37b5cd9407c812ee246fdf4817bed24a820fe073
-{
-Ksrc/main/java/com/practices/firstapp/controller/UnexpectedErrorServlet.java,6/6/66801d1a6e413ced4483c5abdad59fdeae5676de
-t
-Dsrc/main/java/com/directmedia/onlinestore/core/entity/Catalogue.java,7/f/7f2634d698318eb87a6dce9e7e91b257233b9612
-ê
-`src/main/java/com/directmedia/onlinestore/backoffice/controller/WorkAddedFailureServletBack.java,d/9/d9488997d91abcdff1f1f3ebc07c06f21bdea197
-q
-Asrc/main/java/com/practices/firstapp/controller/SommeServlet.java,6/2/6204e0640f53533aa88e397087a8bf45caff9d83
-R
-"src/main/webapp/saisie-nombre.html,0/9/093482db8870d7af6f0ea1922ebc72642d215a85
-o
-?src/main/java/com/practices/firstapp/controller/PdfServlet.java,a/3/a3a77ae82b38de6b302358dcf06fc404d4d2dcfd
-P
- src/main/webapp/google-index.jsp,8/5/85ad002c8a92d055c5cc6c20443aed1fa3110198
 q
 Asrc/main/java/com/practices/firstapp/controller/HelloServlet.java,4/4/4400897823077bf166801284cac8f49115d264b3
+q
+Asrc/main/java/com/practices/firstapp/controller/SommeServlet.java,6/2/6204e0640f53533aa88e397087a8bf45caff9d83
+É
+Ssrc/main/java/com/directmedia/onlinestore/backoffice/controller/AddWorkServlet.java,c/6/c6b3ea96ccfd0e3e7a39817be40d86dcfc0b470a
 N
 src/main/webapp/helloworld.jsp,3/e/3efbd79a77ede09ae09007505cfaa01df15043df
+o
+?src/main/java/com/directmedia/onlinestore/core/entity/Work.java,3/7/37b5cd9407c812ee246fdf4817bed24a820fe073
