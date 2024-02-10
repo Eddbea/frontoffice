@@ -24,23 +24,31 @@ Xsrc/main/java/com/directmedia/onlinestore/frontoffice/controller/WorkDetailsSer
 Vsrc/main/java/com/directmedia/onlinestore/frontoffice/controller/AddToCartServlet.java,9/0/90fad07e8e2b724a9e215d58c0fc801a8a7e90da
 H
 src/main/webapp/home.jsp,6/8/6853166b9553bb500860233db274f93560c021c5
-ê
-`src/main/java/com/directmedia/onlinestore/backoffice/controller/WorkAddedFailureServletBack.java,d/9/d9488997d91abcdff1f1f3ebc07c06f21bdea197
 N
 src/main/webapp/helloworld.jsp,3/e/3efbd79a77ede09ae09007505cfaa01df15043df
-K
-src/main/webapp/homeJsp.jsp,3/2/328f7be283cefce63128e12986eac84c34234d58
 J
 src/main/webapp/login.html,0/b/0b2312482180eaf8cdf639b64798129ced9aa403
-L
-src/main/webapp/HomeBack.jsp,d/7/d70eab3c196c7e410446dea78419b80a907efddc
-L
-src/main/webapp/homeBack.jsp,c/4/c4825e6e2a4a7f8f19f0e8af0e7e03da1537bb0c
+q
+Asrc/main/java/com/practices/firstapp/controller/HelloServlet.java,4/4/4400897823077bf166801284cac8f49115d264b3
 â
 Ysrc/main/java/com/directmedia/onlinestore/backoffice/controller/CatalogueServletBack.java,4/7/47b0674f34a5895a654c4a5f1578768be2d75152
-K
-nullll/HomeServletBack.java,2/e/2e9393627c9fed7e5eb711e2487fd5304f1456c8
-ê
-`src/main/java/com/directmedia/onlinestore/backoffice/controller/WorkAddedSuccessServletBack.java,3/8/38f52471689ae0b8a2f2f094e3b4335c7fc5eb11
+T
+$src/main/webapp/catalogueBackJsp.jsp,1/6/166189213b0d671e1e02a909b67258d1896c286b
+q
+Asrc/main/java/com/practices/firstapp/controller/SommeServlet.java,6/2/6204e0640f53533aa88e397087a8bf45caff9d83
+R
+"src/main/webapp/saisie-nombre.html,0/9/093482db8870d7af6f0ea1922ebc72642d215a85
+P
+ src/main/webapp/payer-livre.html,2/2/2202a86bea53336dc57866a2b23f7be6b340fc9e
+É
+Ssrc/main/java/com/directmedia/onlinestore/backoffice/controller/AddWorkServlet.java,c/6/c6b3ea96ccfd0e3e7a39817be40d86dcfc0b470a
 å
 \src/main/java/com/directmedia/onlinestore/backoffice/controller/AuthentificationServlet.java,0/4/04818bb32b5477e816844d0201ab384c6daa92a3
+ê
+`src/main/java/com/directmedia/onlinestore/backoffice/controller/WorkAddedFailureServletBack.java,d/9/d9488997d91abcdff1f1f3ebc07c06f21bdea197
+ê
+`src/main/java/com/directmedia/onlinestore/backoffice/controller/WorkAddedSuccessServletBack.java,3/8/38f52471689ae0b8a2f2f094e3b4335c7fc5eb11
+L
+src/main/webapp/homeBack.jsp,c/4/c4825e6e2a4a7f8f19f0e8af0e7e03da1537bb0c
+P
+ nullll/CatalogueServletBack.java,6/6/6618be2a6b1cc44cab7bada891b8108bfbbc34cb
