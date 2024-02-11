@@ -50,3 +50,5 @@ z
 Jsrc/main/java/com/practices/firstapp/controller/SelectionLivreServlet.java,b/f/bff3ddc57fb9efd72202f80aa8ce7bfa72e85a05
 O
 src/main/webapp/payer-livre.jsp,d/8/d89634db0817d23864f329bdf3d664393768dbf8
+p
+@src/main/java/com/directmedia/onlinestore/core/entity/Login.java,4/1/41d6d60a4f48b2bdd499eab150120e9d85df8f8e
