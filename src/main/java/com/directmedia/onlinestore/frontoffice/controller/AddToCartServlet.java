@@ -18,16 +18,16 @@ public class AddToCartServlet extends HttpServlet {
 
 
     @Override
-    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+    protected void doPost(HttpServletRequest request, HttpServletResponse resp) throws ServletException, IOException {
 
-        String idAsString=req.getParameter("identifiant");
+        String idAsString=request.getParameter("identifiant");
         long idAsLong= Long.parseLong(idAsString);
 
-        ShoppingCart cart=(ShoppingCart) req.getSession().getAttribute("cart");
+        ShoppingCart cart=(ShoppingCart) request.getSession().getAttribute("cart");
 
         if(cart==null){
             cart=new ShoppingCart();
-            req.getSession().setAttribute("cart", cart);
+            request.getSession().setAttribute("cart", cart);
         }
 
         /*for(Work work : Catalogue.listOfWorks){

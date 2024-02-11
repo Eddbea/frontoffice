@@ -17,7 +17,7 @@ import java.io.PrintWriter;
 public class WorkDetailsServlet extends HttpServlet {
 
     /**
-     * @param req      an {@link HttpServletRequest} object that
+     * @param request      an {@link HttpServletRequest} object that
      *                 contains the request the client has made
      *                 of the servlet
      * @param response an {@link HttpServletResponse} object that
@@ -31,9 +31,9 @@ public class WorkDetailsServlet extends HttpServlet {
      * @see ServletResponse#setContentType
      */
     @Override
-    protected void doGet(HttpServletRequest req, HttpServletResponse response) throws ServletException, IOException {
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");
-        String id = req.getParameter("id");
+        String id = request.getParameter("id");
 
         //stream java 8
         //Work work = Catalogue.listOfWorks.stream().filter(workf -> workf.getId()==Long.parseLong(id)).findFirst().get();
