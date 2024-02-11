@@ -52,3 +52,9 @@ O
 src/main/webapp/payer-livre.jsp,d/8/d89634db0817d23864f329bdf3d664393768dbf8
 p
 @src/main/java/com/directmedia/onlinestore/core/entity/Login.java,4/1/41d6d60a4f48b2bdd499eab150120e9d85df8f8e
+R
+"src/main/webapp/saisie-nombre.html,0/9/093482db8870d7af6f0ea1922ebc72642d215a85
+q
+Asrc/main/java/com/practices/firstapp/controller/SommeServlet.java,6/2/6204e0640f53533aa88e397087a8bf45caff9d83
+S
+#src/main/webapp/affichage-somme.jsp,b/a/ba11a942ac28673653ec6e072d61438e9df0486e
