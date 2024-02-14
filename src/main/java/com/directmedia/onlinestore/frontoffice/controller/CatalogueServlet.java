@@ -52,8 +52,8 @@ public class CatalogueServlet extends HttpServlet {
         out.println("<html><body><h1>Oeuvres au catalogue</h1><BR/><BR/>");
         for (Work work : Catalogue.listOfWorks) {
 
-            out.println("<a href=\"AddToCart\">Ajouter</a>");
-            out.println("<a href=\"work-details?id=" + work.getId() + "\">" + work.getTitle() + " (" + work.getRelease() + ")</a><BR/>");
+            out.println("<a href=\"addToCart\">Ajouter</a>");
+            out.println("<a href=\"work-details?id="     + work.getId() + "\">" + work.getTitle() + " (" + work.getRelease() + ")</a><BR/>");
 
             out.println("</body");
             out.println("</html>");

@@ -35,6 +35,7 @@ public class AddToCartServlet extends HttpServlet {
                 cart.getItems().add(work);
             }
         }*/
+
         Optional<Work> optionalWork=Catalogue.listOfWorks.stream().filter(work-> work.getId()==idAsLong ).findAny();
         if(optionalWork.isPresent()){
             cart.getItems().add(optionalWork.get());
