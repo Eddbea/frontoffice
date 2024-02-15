@@ -48,3 +48,7 @@ q
 Asrc/main/java/com/practices/firstapp/controller/SommeServlet.java,6/2/6204e0640f53533aa88e397087a8bf45caff9d83
 [
 +src/main/webapp/WEB-INF/affichage-somme.jsp,4/c/4cdaa905ca4e64873c50208d2f3b25eb763b621c
+Y
+)src/main/webapp/WEB-INF/catalogueBack.jsp,e/5/e5b37af05ffb9aafe3bf08e43e1a119ad5c82a9e
+X
+(src/main/webapp/WEB-INF/work-details.jsp,5/5/55f291622340aaab5f23cc5c3a50fa39b811ca54

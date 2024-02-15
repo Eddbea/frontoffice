@@ -35,9 +35,8 @@ public class WorkDetailsServlet extends HttpServlet {
                     break;
                 }
             }
-
              request.setAttribute("work", work);
-            RequestDispatcher disp=request.getRequestDispatcher("/work-details.jsp");
+            RequestDispatcher disp=request.getRequestDispatcher("/WEB-INF/work-details.jsp");
             disp.forward(request,response);
 
         } catch (NumberFormatException e) {
