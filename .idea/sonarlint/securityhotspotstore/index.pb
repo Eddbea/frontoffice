@@ -24,35 +24,21 @@ Xsrc/main/java/com/directmedia/onlinestore/frontoffice/controller/WorkDetailsSer
 Vsrc/main/java/com/directmedia/onlinestore/frontoffice/controller/AddToCartServlet.java,9/0/90fad07e8e2b724a9e215d58c0fc801a8a7e90da
 H
 src/main/webapp/home.jsp,6/8/6853166b9553bb500860233db274f93560c021c5
-o
-?src/main/java/com/practices/firstapp/controller/PdfServlet.java,a/3/a3a77ae82b38de6b302358dcf06fc404d4d2dcfd
-v
-Fsrc/main/java/com/practices/firstapp/controller/PayerLivreServlet.java,1/9/19fc551a9cdf3f9f11fab8e8b34c709e88f6ff3e
-z
-Jsrc/main/java/com/practices/firstapp/controller/SelectionLivreServlet.java,b/f/bff3ddc57fb9efd72202f80aa8ce7bfa72e85a05
-q
-Asrc/main/java/com/practices/firstapp/controller/SommeServlet.java,6/2/6204e0640f53533aa88e397087a8bf45caff9d83
-v
-Fsrc/main/java/com/practices/firstapp/controller/TestThreadServlet.java,8/2/82c5375d6b655e91798d454aa3cee8649f9a3ca9
-{
-Ksrc/main/java/com/practices/firstapp/controller/UnexpectedErrorServlet.java,6/6/66801d1a6e413ced4483c5abdad59fdeae5676de
-ƒ
-Ssrc/main/java/com/directmedia/onlinestore/backoffice/controller/AddWorkServlet.java,c/6/c6b3ea96ccfd0e3e7a39817be40d86dcfc0b470a
-O
-src/main/webapp/payer-livre.jsp,d/8/d89634db0817d23864f329bdf3d664393768dbf8
-N
-src/main/webapp/helloworld.jsp,3/e/3efbd79a77ede09ae09007505cfaa01df15043df
-T
-$src/main/webapp/catalogueBackJsp.jsp,1/6/166189213b0d671e1e02a909b67258d1896c286b
-P
- nullll/CatalogueServletBack.java,6/6/6618be2a6b1cc44cab7bada891b8108bfbbc34cb
 P
  src/main/webapp/work-details.jsp,7/2/728a3e63e04b926bb94eb6d4e07e39418830a583
+T
+$src/main/webapp/catalogueBackJsp.jsp,1/6/166189213b0d671e1e02a909b67258d1896c286b
+‰
+Ysrc/main/java/com/directmedia/onlinestore/backoffice/controller/CatalogueServletBack.java,4/7/47b0674f34a5895a654c4a5f1578768be2d75152
 L
 src/main/webapp/homeBack.jsp,c/4/c4825e6e2a4a7f8f19f0e8af0e7e03da1537bb0c
-R
-"src/main/webapp/add-work-form.html,b/4/b4ccc3b0a70dddb2ece298c78f1df1d265077651
-S
-#src/main/webapp/affichage-somme.jsp,b/a/ba11a942ac28673653ec6e072d61438e9df0486e
-R
-"src/main/webapp/saisie-nombre.html,0/9/093482db8870d7af6f0ea1922ebc72642d215a85
+O
+src/main/webapp/payer-livre.jsp,d/8/d89634db0817d23864f329bdf3d664393768dbf8
+z
+Jsrc/main/java/com/practices/firstapp/controller/SelectionLivreServlet.java,b/f/bff3ddc57fb9efd72202f80aa8ce7bfa72e85a05
+v
+Fsrc/main/java/com/practices/firstapp/controller/PayerLivreServlet.java,1/9/19fc551a9cdf3f9f11fab8e8b34c709e88f6ff3e
+Q
+!src/main/webapp/catalogueBack.jsp,b/d/bd93a55dd3b8fb062b1bad5d5ecc382877fc9b89
+„
+Tsrc/main/java/com/directmedia/onlinestore/backoffice/controller/HomeServletBack.java,9/4/9464f139e6c8e00a58da5a8fe8cb44eda0ce330f
