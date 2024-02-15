@@ -42,3 +42,9 @@ Q
 !src/main/webapp/catalogueBack.jsp,b/d/bd93a55dd3b8fb062b1bad5d5ecc382877fc9b89
 „
 Tsrc/main/java/com/directmedia/onlinestore/backoffice/controller/HomeServletBack.java,9/4/9464f139e6c8e00a58da5a8fe8cb44eda0ce330f
+S
+#src/main/webapp/affichage-somme.jsp,b/a/ba11a942ac28673653ec6e072d61438e9df0486e
+q
+Asrc/main/java/com/practices/firstapp/controller/SommeServlet.java,6/2/6204e0640f53533aa88e397087a8bf45caff9d83
+[
++src/main/webapp/WEB-INF/affichage-somme.jsp,4/c/4cdaa905ca4e64873c50208d2f3b25eb763b621c
