@@ -13,22 +13,24 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Optional;
 
-@WebServlet (name = "AddToCartServlet", value = "/addToCart")
+@WebServlet(name = "AddToCartServlet", value = "/addToCart")
 public class AddToCartServlet extends HttpServlet {
 
 
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse resp) throws ServletException, IOException {
 
-        String idAsString=request.getParameter("identifiant");
-        long idAsLong= Long.parseLong(idAsString);
+        String idAsString = request.getParameter("identifiant");
 
-        ShoppingCart cart=(ShoppingCart) request.getSession().getAttribute("cart");
+        try {
+            long idAsLong = Long.parseLong(idAsString);
 
-        if(cart==null){
-            cart=new ShoppingCart();
-            request.getSession().setAttribute("cart", cart);
-        }
+            ShoppingCart cart = (ShoppingCart) request.getSession().getAttribute("cart");
+
+            if (cart == null) {
+                cart = new ShoppingCart();
+                request.getSession().setAttribute("cart", cart);
+            }
 
         /*for(Work work : Catalogue.listOfWorks){
             if(work.getId()==idAsLong){
@@ -36,13 +38,16 @@ public class AddToCartServlet extends HttpServlet {
             }
         }*/
 
-        Optional<Work> optionalWork=Catalogue.listOfWorks.stream().filter(work-> work.getId()==idAsLong ).findAny();
-        if(optionalWork.isPresent()){
-            cart.getItems().add(optionalWork.get());
+            Optional<Work> optionalWork = Catalogue.listOfWorks.stream().filter(work -> work.getId() == idAsLong).findAny();
+            if (optionalWork.isPresent()) {
+                cart.getItems().add(optionalWork.get());
+            }
+
+            PrintWriter out = resp.getWriter();
+            out.print("<html><body>Oeuvre ajoutee au caddie (" + cart.getItems().size() + ")</br><a href=\"catalogue\"> Retour au catalogue</a></body></html>");
+
+        } catch (NumberFormatException n) {
+            n.printStackTrace();
         }
-
-        PrintWriter out=resp.getWriter();
-        out.print("<html><body>Oeuvre ajoutee au caddie ("+cart.getItems().size()+")</br><a href=\"catalogue\"> Retour au catalogue</a></body></html>");
-
     }
 }
