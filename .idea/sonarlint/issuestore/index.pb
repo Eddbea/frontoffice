@@ -86,3 +86,7 @@ Q.idea/sonarlint/securityhotspotstore/2/c/2cabb939da04d3de3a200bf2b575690e1a1631
 Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3/0/30205a209c6ce77c4cfc19a09e6f57c588b7fb88
 Å
 Q.idea/sonarlint/securityhotspotstore/6/8/6853166b9553bb500860233db274f93560c021c5,0/2/02ddd1004148876c0fa24b78c7551656b0b6b7bd
+R
+"src/main/webapp/js/application2.js,5/8/589d0053862145ebb2f501c4b7cd692c7b567c5d
+S
+#src/main/webapp/js/application-2.js,e/4/e47ad1e31a52cb7a4c3eeb579cfd9432b8b6fdd9
