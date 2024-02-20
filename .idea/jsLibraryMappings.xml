@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="file://$PROJECT_DIR$/../firstapp" libraries="{jquery}" />
+    <file url="file://$PROJECT_DIR$/../backoffice" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/../firstapp" libraries="{Node.js Core, jquery}" />
+    <file url="file://$PROJECT_DIR$/../firstappcore" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$" libraries="{Node.js Core}" />
+    <file url="PROJECT" libraries="{jquery}" />
   </component>
 </project>

@@ -3,6 +3,8 @@
   <component name="WebContextManager">
     <option name="state">
       <map>
+        <entry key="file://$PROJECT_DIR$/../backoffice/src/main/webapp/WEB-INF/catalogueBack.jsp" value="file://$PROJECT_DIR$/../backoffice/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/../backoffice/src/main/webapp/homeBack.jsp" value="file://$PROJECT_DIR$/../backoffice/src/main/webapp" />
         <entry key="file://$PROJECT_DIR$/../firstapp/src/main/webapp/affichage-somme.jsp" value="file://$PROJECT_DIR$/../firstapp/src/main/webapp" />
         <entry key="file://$PROJECT_DIR$/../firstapp/src/main/webapp/helloworld.jsp" value="file://$PROJECT_DIR$/../firstapp/src/main/webapp" />
         <entry key="file://$PROJECT_DIR$/../firstapp/src/main/webapp/payerLivre.jsp" value="file://$PROJECT_DIR$/../firstapp/src/main/webapp" />
