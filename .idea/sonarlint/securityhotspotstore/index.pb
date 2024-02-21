@@ -86,3 +86,11 @@ V
 &src/main/webapp/no/affichage-somme.jsp,2/e/2e0350325ac995e39d1b25430492faad613b2623
 o
 ?src/main/java/com/practices/firstapp/controller/PdfServlet.java,a/3/a3a77ae82b38de6b302358dcf06fc404d4d2dcfd
+U
+%src/main/java/dto/SommeEtProduit.java,9/e/9eed08cc149902fdb890d48195ca29aa7613d4fd
+L
+src/main/java/dto/Livre.java,7/6/767b77de72937451ccd22b7172014dcecfa3ef9a
+L
+src/main/java/dto/Somme.java,e/b/ebceb4cc8dd857db40f5af605743225fecc5e810
+N
+src/main/java/dto/Produit.java,1/6/160711e0b26fbc6695fadfdf18bacf2bba6bcd06
