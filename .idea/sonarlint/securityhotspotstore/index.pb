@@ -82,3 +82,7 @@ Q
 !src/main/webapp/js/application.js,f/2/f2a6ca1c12b57cc9a1acb9c0eb0bed47829d7598
 V
 &src/main/webapp/js/jquery-3.3.1.min.js,6/1/61db8ee329e67f1fa2a193ebecce8d6eb5e52574
+V
+&src/main/webapp/no/affichage-somme.jsp,2/e/2e0350325ac995e39d1b25430492faad613b2623
+o
+?src/main/java/com/practices/firstapp/controller/PdfServlet.java,a/3/a3a77ae82b38de6b302358dcf06fc404d4d2dcfd
