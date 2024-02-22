@@ -74,3 +74,17 @@ Asrc/main/java/com/practices/firstapp/controller/SommeServlet.java,6/2/6204e064
 Tsrc/main/java/com/directmedia/onlinestore/backoffice/controller/HomeServletBack.java,9/4/9464f139e6c8e00a58da5a8fe8cb44eda0ce330f
 T
 $src/main/webapp/no/catalogueBack.jsp,6/5/654159f7d39147b3372b076155491000d1f2a472
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+V
+&src/main/java/resources/resources.java,3/e/3e523a1c433f3cc1c274cc76829d96bd238a6fcc
+a
+1src/main/java/resources/CalculationResources.java,d/7/d739bf7ab95851374f6fa02015f36b9ba64a7ad3
+R
+"src/main/webapp/saisie-nombre.html,0/9/093482db8870d7af6f0ea1922ebc72642d215a85
+V
+&src/main/webapp/no/affichage-somme.jsp,2/e/2e0350325ac995e39d1b25430492faad613b2623
+`
+0src/main/java/resources/CalculationResource.java,7/1/71ce92024dad5f330cee71b1ea7d40aecd4f8940
+Q
+!src/main/webapp/js/application.js,f/2/f2a6ca1c12b57cc9a1acb9c0eb0bed47829d7598
